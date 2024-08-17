@@ -1,3 +1,5 @@
+# This file includes other possible implementations for the silent auction program 
+
 gavel_logo = r'''
                          ___________
                          \         /
